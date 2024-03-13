@@ -1,8 +1,4 @@
-<h1>Hello World ! 👋 </h1>
-
-<p>
-  
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <h2> Language 📚 </h2>
 
