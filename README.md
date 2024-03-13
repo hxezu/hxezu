@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=0000FF&center=true&vCenter=true&random=false&width=435&lines=Hello+World+!+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h2> Language 📚 </h2>
+<h2> Tech Stack 📚 </h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
