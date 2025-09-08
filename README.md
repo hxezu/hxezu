@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=FFFFFF&center=false&vCenter=false&random=false&width=435&lines=npm+hyeju)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=FFFFFF&center=false&vCenter=false&random=false&width=435&lines=npx+hyeju)](https://git.io/typing-svg)
 
 <h2> Tech Stack 📚 </h2>
 
