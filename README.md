@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&pause=1000&color=FFFFFF&center=false&vCenter=false&random=false&width=435&lines=npx+hyeju)](https://git.io/typing-svg)
+
+```
+npx hyeju
+```
 
 <h4> Tech Stack </h4>
 
