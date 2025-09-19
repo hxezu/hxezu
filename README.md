@@ -3,6 +3,10 @@
 npx hyeju
 ```
 
+<h4> Contribution </h4>
+
+- [@toss/es-hangul](https://github.com/toss/es-hangul)
+
 <h4> Tech Stack </h4>
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -22,6 +26,4 @@ npx hyeju
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 
-<h4> Contribution </h4>
 
-- [@toss/es-hangul](https://github.com/toss/es-hangul)
