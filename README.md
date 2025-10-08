@@ -1,6 +1,6 @@
 
 ```
-npx hyeju
+frontend-developer hxezu
 ```
 
 <h4> Contribution </h4>
